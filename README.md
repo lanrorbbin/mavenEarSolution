@@ -1,0 +1,1 @@
+This is a simple multiple project maven ear solution.
